@@ -32,4 +32,4 @@ You can deploy to any provider but make sure you add the environment variables f
 
 ## If you like this, donate
 
-- Send tips in SOL to help me build in public: 52zEuaG5VBQTzRP7MLMyEzSuKgYPF9E9dtaWrmXaiNkg
+- Send tips in SOL to help me build in public: BwrKif5eoBbFKVKkbXFc9tSsqTBi1D8Cs6YtmsDkuLSw
